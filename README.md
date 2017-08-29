@@ -14,4 +14,4 @@ A community driven list of Viennese companies adopting a functional programming 
 
 ## Scala
 * [Firstbird](https://www.firstbird.com/en/) - HR Tech - [https://stackshare.io/firstbird/firstbird](https://stackshare.io/firstbird/firstbird)
-
+* [indoo.rs](https://indoo.rs) - Indoor Positioning - [https://stackshare.io/indoo-rs/indoo-rs](https://stackshare.io/indoo-rs/indoo-rs)
