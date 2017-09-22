@@ -7,6 +7,7 @@ A community driven list of Viennese companies adopting a functional programming 
 ## Elixir
 
 ## Elm
+* [Mimo](https://www.firstbird.com/en/) - We're on a mission to find the best way to learn in a digital world.
 
 ## Haskell
 
